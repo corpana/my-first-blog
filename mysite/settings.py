@@ -25,7 +25,7 @@ SECRET_KEY = 'g0o$k=629q1-a8sgzq&rg0%&3hm)qv6jtq0)8hr10_!8ws_kwg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["emarine.pythonanywhere.com"]
 
 
 # Application definition
